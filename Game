@@ -5,7 +5,9 @@ import.java.scanner
   {
    public static void main(String[] args)
     {
+      Scanner scan =
       System.out.println ("Enter your President's name:")
+      
     }
   
   }
